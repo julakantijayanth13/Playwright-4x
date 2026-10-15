@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title description">
+  <title id="title">Post-increment evaluation</title>
+  <desc id="description">With a initially equal to 5, a plus plus yields 5 and then updates a to 6.</desc>
+  <rect width="900" height="320" rx="24" fill="#101827"/>
+  <text x="450" y="54" fill="#f8fafc" font-family="Arial, sans-serif" font-size="25" font-weight="700" text-anchor="middle">Post-increment: a++</text>
+  <rect x="324" y="82" width="252" height="62" rx="14" fill="#1e293b" stroke="#64748b" stroke-width="2"/>
+  <text x="450" y="121" fill="#e2e8f0" font-family="monospace" font-size="23" text-anchor="middle">a starts at 5</text>
+  <path d="M450 144v30M450 174H235v25M450 174h215v25" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <path d="m227 191 8 10 8-10M657 191l8 10 8-10" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="115" y="210" width="240" height="70" rx="14" fill="#14532d"/>
+  <text x="235" y="253" fill="#dcfce7" font-family="monospace" font-size="22" text-anchor="middle">expression yields 5</text>
+  <rect x="545" y="210" width="240" height="70" rx="14" fill="#1e3a8a"/>
+  <text x="665" y="253" fill="#dbeafe" font-family="monospace" font-size="22" text-anchor="middle">then a becomes 6</text>
+</svg>
